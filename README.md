@@ -1,5 +1,5 @@
 # schema progetto:
 
 <div align="center">
-    <img src="" width="400">
+    <img src="https://github.com/progetto/immagini_readme/Schema_hardware.png" width="400">
 </div>

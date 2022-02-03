@@ -14,5 +14,5 @@
 # Componenti:
 
 <div>
-     <img src="immagini_readme/jetson_nano_scatola.jpg">
+     <img src="immagini_readme/jetson_nano_scatola.jpg" width="500">
 </div>

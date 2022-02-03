@@ -13,6 +13,6 @@
 
 # Componenti:
 
-<div>
+<div align="center">
      <img src="immagini_readme/jetson_nano_scatola.jpg" width="500">
 </div>

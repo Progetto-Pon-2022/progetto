@@ -30,8 +30,12 @@
     Arduino, per gestire il funzionamento dei motori       
 </div>
 
-### Yoda
+### Yoda:
 <div align="center">
-    <img src="immagini_readme/motor_shield.jpg" width="300">
+    <img src="immagini_readme/robot.jpg" width="300">
+</div>
+<div>
+    Yoda è il robot che utilizzeremo per il progetto. <br>
+    Possiede quattro motori, ma noi ne utilizzeremo solo due, che permettono tramite cingolati di muoversi.
 </div>
  

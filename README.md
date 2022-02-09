@@ -1,7 +1,7 @@
 # L'idea: 
 
 <div> 
-    Abbiamo deciso di creare un robot raccogli-rifiuti, dal movimento autonomo.
+    Abbiamo deciso di creare un robot raccogli-rifiuti, dal movimento autonomo. <br>
     Tramite intelligenza  artificiale il robot sarà in grado di distinguere i vari tipo di rifiuti e a riconoscere e schivare gli ostacoli.
 </div>
 

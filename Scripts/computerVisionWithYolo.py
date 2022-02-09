@@ -1,7 +1,7 @@
 
 """
 IMPORTANTE:
-    - avere in questa cartella i file: yolov3.weights, yolov3.cfg, immagine.png, coco.names per il corretto funzionamento
+    - avere in questa cartella i file: yolov3.weights, yolov3.cfg, coco.names per il corretto funzionamento
 
 """
 import cv2

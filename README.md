@@ -13,6 +13,7 @@
 
 # Componenti:
 
+### Nvidia Jetson Nano:
 <div align="center">
      <img src="immagini_readme/jetson_nano_scatola.jpg" width="300">
 </div>
@@ -21,8 +22,12 @@
     Lo utilizzeremo per riconoscecre e distinguere i diversi tipi di rifiuti.
 </div>
 
+### Motor Shield:
 <div align="center">
   <img src="immagini_readme/motor_shield.jpg" width="300">
+</div>
+<div>
+    Arduino per gestire il funzionamento dei motori       
 </div>
 
  

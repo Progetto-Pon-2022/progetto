@@ -7,16 +7,12 @@ IMPORTANTE:
 import cv2
 import numpy as np
 
-
 # funzione per avere il frame dell'immagine ottenuta dalla telecamera
 def getFrameImage():
     cap = cv2.VideoCapture(0)
     _ ,frame = cap.read()
     cap.release()
     return frame
-
-
-
 
 # carico yolo
 # seguire gli step sul sito per scaricarlo
@@ -82,9 +78,6 @@ while True:
                 x = int(center_x - w/2)
                 y = int(center_y - h/2)
 
-                
-
-
                 #salvo le informazioni per tutti gli oggetti salvati
                 boxes.append([x,y,w,h])
                 confidences.append(float(confidence))
@@ -113,7 +106,6 @@ while True:
         objectsdetected.append(label)
 
     print([obj for obj in objectsdetected])
-
 
     #cv2.imshow("Image", img)
     #cv2.waitKey(0)

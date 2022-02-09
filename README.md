@@ -27,7 +27,7 @@
   <img src="immagini_readme/motor_shield.jpg" width="300">
 </div>
 <div>
-    Arduino per gestire il funzionamento dei motori       
+    Arduino, per gestire il funzionamento dei motori       
 </div>
 
  

@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="immagini_readme/jetson_nano_scatola.jpg" width="300">
+  <img src="immagini_readme/motor_shield.jpg" width="300">
 </div>
 
  

@@ -30,4 +30,8 @@
     Arduino, per gestire il funzionamento dei motori       
 </div>
 
+### Yoda
+<div align="center">
+    <img src="immagini_readme/motor_shield.jpg" width="300">
+</div>
  

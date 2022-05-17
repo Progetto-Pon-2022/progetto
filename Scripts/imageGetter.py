@@ -69,4 +69,4 @@ def getCoordImage(net, outputlayer):
         #print(f"coordinate del centro dell'immagine: ({centerOfImages[0]}, {centerOfImages[1]}) ")
         return  centerOfImages[class_ids.index(COD_OBJECT_TO_FOLLOW)]
     else:
-        return [-1, -1] #idea di martini, non piace a mellano
+        return [-1, -1] #

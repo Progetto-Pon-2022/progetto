@@ -1,4 +1,4 @@
-# the starting idea : 
+# The starting idea : 
 
 we have started the project thinking to something that can move around and pick up rubbish left in autonomy, without the human presence.
 

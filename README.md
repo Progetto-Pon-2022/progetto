@@ -1,11 +1,12 @@
-# L'idea: 
+# the starting idea : 
 
-<div> 
-    Abbiamo deciso di creare un robot raccogli-rifiuti, dal movimento autonomo. <br>
-    Tramite intelligenza  artificiale il robot sarà in grado di distinguere i vari tipo di rifiuti e a riconoscere e schivare gli ostacoli.
-</div>
+we have started the project thinking to something that can move around and pick up rubbish left in autonomy, without the human presence.
 
-# Schema progetto:
+using artificial intelligence, the goal are : 
+- make a robot who can recognize the different type of waste
+- recognize and avoid correctly the obstacles on the path
+
+# project scheme:
 
 <div align="center">
     <img src="immagini_readme/Schema_hardware.png" width="400">

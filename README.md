@@ -27,7 +27,7 @@ Nvidia Jetson Nano is a particularly powerful processor, capable of supporting a
   <img src="immagini_readme/motor_shield.jpg" width="300">
 </div>
 <div>
-    Arduino, per gestire il funzionamento dei motori       
+    An arduino module who manage the motor's input
 </div>
 
 ### Yoda:
@@ -35,7 +35,6 @@ Nvidia Jetson Nano is a particularly powerful processor, capable of supporting a
     <img src="immagini_readme/robot.jpg" width="300">
 </div>
 <div>
-    Yoda è il robot che utilizzeremo per il progetto. <br>
-    Possiede quattro motori, ma noi ne utilizzeremo solo due, che permettono tramite cingolati di muoversi.
+    Yoda is the robot where we have mounted all the components. we use 2 of the 4 motors built in the tracks
 </div>
  

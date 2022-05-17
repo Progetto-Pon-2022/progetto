@@ -9,7 +9,7 @@ using artificial intelligence, the goal are :
 # project scheme:
 
 <div align="center">
-    <img src="immagini_readme/Schema_hardware.png" width="400">
+    <img src="immagini_readme/component scheme.png" width="400">
 </div>
 
 # Componenti:

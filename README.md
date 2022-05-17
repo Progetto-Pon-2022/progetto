@@ -35,6 +35,7 @@ Nvidia Jetson Nano is a particularly powerful processor, capable of supporting a
     <img src="immagini_readme/robot.jpg" width="300">
 </div>
 <div>
-    Yoda is the robot where we have mounted all the components. we use 2 of the 4 motors built in the tracks
+    Yoda is the robot where we have mounted all the components. 
+    We use 2 of the 4 motors built in the tracks
 </div>
  

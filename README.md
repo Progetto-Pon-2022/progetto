@@ -12,16 +12,15 @@ using artificial intelligence, the goal are :
     <img src="immagini_readme/component scheme.png" width="400">
 </div>
 
-# Componenti:
+# Components:
 
 ### Nvidia Jetson Nano:
 <div align="center">
      <img src="immagini_readme/jetson_nano_scatola.jpg" width="300">
 </div>
-<div>
-    Nvidia Jetson Nano è un processore in grado di riconoscere diversi oggetti, tramite l'utilizzo di intelligenza artificiale.
-    Lo utilizzeremo per riconoscecre e distinguere i diversi tipi di rifiuti.
-</div>
+
+Nvidia Jetson Nano is a particularly powerful processor, capable of supporting an AI algorithm.
+
 
 ### Motor Shield:
 <div align="center">

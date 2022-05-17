@@ -26,16 +26,14 @@ Nvidia Jetson Nano is a particularly powerful processor, capable of supporting a
 <div align="center">
   <img src="immagini_readme/motor_shield.jpg" width="300">
 </div>
-<div>
-    An arduino module who manage the motor's input
-</div>
+An arduino module who manage the motor's input.
+We have also mounted an ultrasound sensor in the middle of the pliers, 
 
 ### Yoda:
 <div align="center">
     <img src="immagini_readme/robot.jpg" width="300">
 </div>
-<div>
-    Yoda is the robot where we have mounted all the components. 
-    We use 2 of the 4 motors built in the tracks
-</div>
+Yoda is the robot where we have mounted all the components. 
+We use 2 of the 4 motors built in the tracks
+
  

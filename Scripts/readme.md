@@ -12,4 +12,5 @@ in charge to control the motors.
 ## arduinoMovement
 receive the information from the directionHandler script, and rules the motors' input consequently.
 
-## 
+## arm
+handle the movement of the arm and the clamp
